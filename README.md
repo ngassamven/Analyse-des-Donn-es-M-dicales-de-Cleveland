@@ -44,3 +44,4 @@ Un modèle de régression logistique est entraîné pour prédire la présence d
 - Évaluation du modèle via une matrice de confusion.
 # Contributeurs
 **NGASSAM KATE Venceslas Osée**: Auteur du code et de l'analyse
+- https://www.linkedin.com/in/venceslas-osee-ngassam-kate-346511197/
