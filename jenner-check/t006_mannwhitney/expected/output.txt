@@ -1,0 +1,84 @@
+                              The NPAR1WAY Procedure                              
+                   Wilcoxon Scores (Rank Sums) for Variable Age                   
+
+Maladie          N  Sum of Scores  Expected Under H0  Std Dev Under H0  Mean Score
+--------  --------  -------------  -----------------  ----------------  ----------
+Non             21       323.5000           367.5000           28.1700     15.4000
+Oui             13       271.5000           227.5000           28.1700     20.8800
+
+   Kruskal-Wallis Test   
+
+Statistic           Value
+---------------  --------
+Chi-Square         2.4400
+DF                      1
+Pr > Chi-Square    0.1183
+P Value            0.1183
+
+  Wilcoxon Two-Sample Test  
+
+Statistic              Value
+------------------  --------
+S                   323.5000
+Expected Under H0   367.5000
+Std Dev Under H0     28.1683
+Z                    -1.5620
+Two-Sided Pr > |Z|    0.1183
+P Value               0.1183
+
+                              The NPAR1WAY Procedure                              
+                 Wilcoxon Scores (Rank Sums) for Variable Tension                 
+
+Maladie          N  Sum of Scores  Expected Under H0  Std Dev Under H0  Mean Score
+--------  --------  -------------  -----------------  ----------------  ----------
+Non             21       402.0000           367.5000           27.8200     19.1400
+Oui             13       193.0000           227.5000           27.8200     14.8500
+
+   Kruskal-Wallis Test   
+
+Statistic           Value
+---------------  --------
+Chi-Square         1.5376
+DF                      1
+Pr > Chi-Square    0.2150
+P Value            0.2150
+
+  Wilcoxon Two-Sample Test  
+
+Statistic              Value
+------------------  --------
+S                   402.0000
+Expected Under H0   367.5000
+Std Dev Under H0     27.8228
+Z                     1.2400
+Two-Sided Pr > |Z|    0.2150
+P Value               0.2150
+
+                              The NPAR1WAY Procedure                              
+               Wilcoxon Scores (Rank Sums) for Variable Cholesterol               
+
+Maladie          N  Sum of Scores  Expected Under H0  Std Dev Under H0  Mean Score
+--------  --------  -------------  -----------------  ----------------  ----------
+Non             21       371.0000           367.5000           28.2100     17.6700
+Oui             13       224.0000           227.5000           28.2100     17.2300
+
+   Kruskal-Wallis Test   
+
+Statistic           Value
+---------------  --------
+Chi-Square         0.0154
+DF                      1
+Pr > Chi-Square    0.9013
+P Value            0.9013
+
+  Wilcoxon Two-Sample Test  
+
+Statistic              Value
+------------------  --------
+S                   371.0000
+Expected Under H0   367.5000
+Std Dev Under H0     28.2136
+Z                     0.1241
+Two-Sided Pr > |Z|    0.9013
+P Value               0.9013
+

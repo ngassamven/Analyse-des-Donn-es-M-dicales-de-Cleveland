@@ -1,0 +1,16 @@
+
+The SURVEYSELECT Procedure
+
+Selection Method     SRS
+Input Data Set       donnees
+Number of Obs Read   34
+Sample Size          34
+Sampling Weight      1.0000
+                                        Repartition apprentissage (1) / test (0)
+
+                                                   The FREQ Procedure
+
+Selected    Frequency    Percent
+---------------------------------
+0                   6     17.65
+1                  28     82.35

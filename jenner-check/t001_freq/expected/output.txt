@@ -1,0 +1,26 @@
+                             Tableau d'effectifs et de pourcentages de la variable Maladie
+
+                                                   The FREQ Procedure
+
+Maladie    Frequency    Percent
+--------------------------------
+Non               21     61.76
+Oui               13     38.24
+                               Tableau d'effectifs et de pourcentages de la variable Sexe
+
+                                                   The FREQ Procedure
+
+Sexe     Frequency    Percent
+------------------------------
+Femme           10     29.41
+Homme           24     70.59
+                              Tableau d'effectifs et de pourcentages de la variable Angine
+
+                                                   The FREQ Procedure
+
+Angine                   Frequency    Percent
+----------------------------------------------
+Angine instable                  7     20.59
+Angine stable                    5     14.71
+Asymptomatique                  13     38.24
+Douleur non angineuse            9     26.47

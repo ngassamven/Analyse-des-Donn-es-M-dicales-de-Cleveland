@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_mannwhitney",
+  "source_file": "projet_final.sas",
+  "source_blob_sha": "1ab059802705a879d4ced5de74270c790d77dd60",
+  "source_commit": "2e520710552e66d44f1f59a3c0e95fc3aeffa19b",
+  "notes": "PROC NPAR1WAY WILCOXON (macro %MannWhitney) : test de Mann-Whitney Maladie x Age/Tension/Cholesterol. Donnees : echantillon de 40 lignes de data.csv (dont 6 avec marqueur '?') lu en ligne pour l'autonomie du bundle; import PROC HTTP/PROC IMPORT depuis UCI remplace par un DATA step DATALINES; LIBNAME projet remplace par WORK. Prep (recodage, renommage, reordonnancement) et macros identiques a l'auteur."
+}
