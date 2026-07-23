@@ -1,0 +1,17 @@
+{
+  "_captured_at": "2026-07-23T13:54:31Z",
+  "_captured_run_id": "r_c7cb98be67534f8885da324c12d41290",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 34 rows from donnees."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

@@ -1,0 +1,226 @@
+                                       Test de Shapiro-Wilk pour la variable Age
+
+                                                The UNIVARIATE Procedure
+                                                     Variable:  Age
+
+                                                        Moments
+
+N                                 34    Sum Weights                       34
+Mean                       55.705882    Sum Observations         1894.000000
+Std Deviation               8.215025    Variance                   67.486631
+Skewness                   -0.580521    Kurtosis                   -0.277147
+Uncorrected SS         107734.000000    Corrected SS             2227.058824
+Coeff Variation            14.747140    Std Error Mean              1.408865
+
+         Basic Statistical Measures          
+
+Location             Variability             
+--------  ---------  -------------  ---------
+Mean      55.705882  Std Deviation   8.215025
+Median    57.000000  Variance       67.486631
+Mode      58.000000  Range          32.000000
+
+Quantiles (Definition 5)
+
+Quantile     Estimate
+----------  ---------
+0% Min      37.000000
+1%          37.000000
+5%          40.000000
+10%         43.000000
+25% Q1      50.000000
+50% Median  57.000000
+75% Q3      62.000000
+90%         66.000000
+95%         67.000000
+99%         69.000000
+100% Max    69.000000
+
+          Extreme Observations          
+
+Lowest               Highest            
+--------  ---------  --------  ---------
+Value     37.000000  Value     64.000000
+Value     40.000000  Value     66.000000
+Value     41.000000  Value     67.000000
+Value     43.000000  Value     67.000000
+Value     44.000000  Value     69.000000
+
+
+
+
+
+
+
+          Tests for Normality          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Shapiro-Wilk        0.954390057  0.166106241
+Kolmogorov-Smirnov  0.161338866  0.305193664
+Anderson-Darling    0.551318846       0.1
+Cramer-von Mises    0.097018389  0.602449659
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         39.539542686         0
+Sign                       17  0.000000015
+Signed Rank               595  0.000000366
+
+                                     Test de Shapiro-Wilk pour la variable Tension
+
+                                                The UNIVARIATE Procedure
+                                                   Variable:  Tension
+
+                                                        Moments
+
+N                                 34    Sum Weights                       34
+Mean                      132.970588    Sum Observations         4521.000000
+Std Deviation              14.550821    Variance                  211.726381
+Skewness                    0.493715    Kurtosis                    0.215938
+Uncorrected SS         608147.000000    Corrected SS             6986.970588
+Coeff Variation            10.942887    Std Error Mean              2.495445
+
+          Basic Statistical Measures           
+
+Location              Variability              
+--------  ----------  -------------  ----------
+Mean      132.970588  Std Deviation   14.550821
+Median    130.000000  Variance       211.726381
+Mode      120.000000  Range           62.000000
+
+     NOTE: The mode displayed is the smallest of 3 modes with a count of 7.
+
+Quantiles (Definition 5)
+
+Quantile      Estimate
+----------  ----------
+0% Min      110.000000
+1%          110.000000
+5%          110.000000
+10%         117.000000
+25% Q1      120.000000
+50% Median  130.000000
+75% Q3      140.000000
+90%         150.000000
+95%         160.000000
+99%         172.000000
+100% Max    172.000000
+
+           Extreme Observations           
+
+Lowest                Highest             
+--------  ----------  --------  ----------
+Value     110.000000  Value     150.000000
+Value     110.000000  Value     150.000000
+Value     110.000000  Value     150.000000
+Value     117.000000  Value     160.000000
+Value     120.000000  Value     172.000000
+
+
+
+
+
+
+
+          Tests for Normality          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Shapiro-Wilk        0.951240378  0.133755535
+Kolmogorov-Smirnov  0.137171858  0.501273087
+Anderson-Darling    0.594035737       0.1
+Cramer-von Mises    0.097415465  0.600443484
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         53.285317874         0
+Sign                       17  0.000000015
+Signed Rank               595  0.000000366
+
+                                   Test de Shapiro-Wilk pour la variable Cholesterol
+
+                                                The UNIVARIATE Procedure
+                                                 Variable:  Cholesterol
+
+                                                        Moments
+
+N                                 34    Sum Weights                       34
+Mean                      245.382353    Sum Observations         8343.000000
+Std Deviation              44.095636    Variance                 1944.425134
+Skewness                    0.637100    Kurtosis                    0.505442
+Uncorrected SS        2111391.000000    Corrected SS            64166.029412
+Coeff Variation            17.970174    Std Error Mean              7.562339
+
+           Basic Statistical Measures           
+
+Location              Variability               
+--------  ----------  -------------  -----------
+Mean      245.382353  Std Deviation    44.095636
+Median    237.500000  Variance       1944.425134
+Mode      229.000000  Range           187.000000
+
+     NOTE: The mode displayed is the smallest of 2 modes with a count of 2.
+
+Quantiles (Definition 5)
+
+Quantile      Estimate
+----------  ----------
+0% Min      167.000000
+1%          167.000000
+5%          168.000000
+10%         199.000000
+25% Q1      219.000000
+50% Median  237.500000
+75% Q3      268.000000
+90%         294.000000
+95%         340.000000
+99%         354.000000
+100% Max    354.000000
+
+           Extreme Observations           
+
+Lowest                Highest             
+--------  ----------  --------  ----------
+Value     167.000000  Value     286.000000
+Value     168.000000  Value     294.000000
+Value     192.000000  Value     335.000000
+Value     199.000000  Value     340.000000
+Value     203.000000  Value     354.000000
+
+
+
+
+
+
+
+          Tests for Normality          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Shapiro-Wilk        0.958489817  0.219641105
+Kolmogorov-Smirnov  0.116365009  0.703355518
+Anderson-Darling    0.459556172      0.15
+Cramer-von Mises    0.065920369  0.780152126
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         32.447943118         0
+Sign                       17  0.000000015
+Signed Rank               595  0.000000366
+

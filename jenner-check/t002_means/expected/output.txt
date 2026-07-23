@@ -1,0 +1,27 @@
+                                      Statistiques descriptives de la variable Age
+
+                                                  The MEANS Procedure
+
+ Variable        N        Mean     Std Dev     Minimum   Lower Quartile      Median   Upper Quartile     Maximum
+ ---------------------------------------------------------------------------------------------------------------
+ Age            34       55.71        8.22       37.00            50.00       57.00            62.00       69.00
+ ---------------------------------------------------------------------------------------------------------------
+
+                                    Statistiques descriptives de la variable Tension
+
+                                                  The MEANS Procedure
+
+ Variable        N           Mean     Std Dev     Minimum   Lower Quartile      Median   Upper Quartile     Maximum
+ ------------------------------------------------------------------------------------------------------------------
+ Tension        34         132.97       14.55      110.00           120.00      130.00           140.00      172.00
+ ------------------------------------------------------------------------------------------------------------------
+
+                                  Statistiques descriptives de la variable Cholesterol
+
+                                                  The MEANS Procedure
+
+ Variable           N           Mean     Std Dev     Minimum   Lower Quartile      Median   Upper Quartile     Maximum
+ ---------------------------------------------------------------------------------------------------------------------
+ Cholesterol       34         245.38       44.10      167.00           219.00      237.50           268.00      354.00
+ ---------------------------------------------------------------------------------------------------------------------
+
